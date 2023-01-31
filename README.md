@@ -22,12 +22,12 @@ DATA VISUALIZATION
 i. Entity Relationship Diagram Model
 ![image](https://user-images.githubusercontent.com/114897374/215656082-f1af841d-7297-495f-b81a-06d44a95efc8.png)
 
-
-
 ii. Sales Overview DASHBOARD
-
+![image](https://user-images.githubusercontent.com/114897374/215656162-fb9add9c-de06-4235-ae81-249eff63e990.png)
 
 iii. Customer Details DASHBOARD
-
+![image](https://user-images.githubusercontent.com/114897374/215656215-f81a5e7e-1b1e-4aa7-bc6a-fe9dfbb0275b.png)
 
 iv. Product Details DASHBOARD
+![image](https://user-images.githubusercontent.com/114897374/215656246-3bce7fdd-379f-430e-9721-cf2a24844251.png)
+
