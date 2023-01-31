@@ -18,4 +18,16 @@ Query Editing Tool: "Microsoft SQL Server Management Studio"
 
 Visualization Tool: "Microsoft Power BI"
 
-DATA VISUALIZATION i. Entity Relationship Diagram Model
+DATA VISUALIZATION 
+i. Entity Relationship Diagram Model
+![image](https://user-images.githubusercontent.com/114897374/215656082-f1af841d-7297-495f-b81a-06d44a95efc8.png)
+
+
+
+ii. Sales Overview DASHBOARD
+
+
+iii. Customer Details DASHBOARD
+
+
+iv. Product Details DASHBOARD
